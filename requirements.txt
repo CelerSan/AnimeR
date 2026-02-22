@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+img2pdf
+PySocks
+yt-dlp
+rich
